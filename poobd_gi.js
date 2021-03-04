@@ -2,7 +2,7 @@ const {Pool} = require("pg");
 async function CriarConexao() {
     const pool = new Pool({
 
-        connectionString:'postgres: // bwjojmfgbshrym : 2c4e59b535eb604a97de36e47127cfe4df0dd76821f316117c69c66ebae190d6 @ ec2-54-237-143-127.compute-1.amazop1vonaws.com : 5432 / dcoug4v',
+        connectionString:'',
         ssl: {
             rejectUnauthorized: false
         }
