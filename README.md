@@ -7,3 +7,7 @@ Você esta vendo meu gitHube
 - Chama na pressão, uooo
 - reehh
 - shueei
+
+## ATUALIZAÇÃO:
+
+- No src: model, db e index
